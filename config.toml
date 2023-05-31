@@ -62,13 +62,13 @@ enableGitInfo = true
             path = 'https://sociology.jmsu.me'
             zh = 'Sociology Posts'
             # zh = '导航'
-            icon = '🎯'
+            icon = '🧐'
         [params.menu.11]
             active = true
             path = 'http://subwaytrans.cloud'
             zh = '대구 지하철 데이터분석'
             # zh = '搜索'
-            icon = '🔎'
+            icon = '🚉'
         [params.menu.22]
             active = true
             path = 'https://blog.jmsu.me'
@@ -111,7 +111,7 @@ enableGitInfo = true
         words = "<span style='color:black'>성균관대 사회학과 대학원생</span><br><br>💡Quantitive Statistic <br>💡Social Network Analysis<br>"
 
     [params.contact]
-        icp = 'www.jmsu.me'                        # 备案号，如果你不想显示，设置为 '' 空即可
+        icp = 'hello.jmsu.me'                        # 备案号，如果你不想显示，设置为 '' 空即可
         icplink = ''             # 备案链接
         #weibo = '<YOUR_CUSTOM_ID>'                  # e.g. https://weibo.com/u/<YOUR_CUSTOM_ID>
         #wechat = 'imgs/bg/wechat.jpg'               # 微信二维码地址，位于 static 目录下
