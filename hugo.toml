@@ -88,7 +88,7 @@ enableGitInfo = true
             # zh = '百科'
             icon = '🚀'
         [params.menu.55]
-            active = true
+            active = false
             path = '/about'
             zh = 'About Jmsu'
             # zh = '关于'
