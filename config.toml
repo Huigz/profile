@@ -4,6 +4,7 @@ title = 'Jmsu.me'
 
 # 启用主题
 theme = 'virgo'
+enableInlineShortcodes = true
 
 hasCJKLanguage = true
 summaryLength = 80
