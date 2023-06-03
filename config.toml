@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'Jmsu.me'
 
 # 启用主题
-theme = 'virgo'
+theme = ["hugo-embed-pdf-shortcode","virgo"]
 enableInlineShortcodes = true
 
 hasCJKLanguage = true
