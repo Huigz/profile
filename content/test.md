@@ -5,4 +5,4 @@ draft: false
 ---
 
 
-{{< embed-pdf url="/pdfs/2023_1_StatisticFinalTerm_Note[v1].pdf" >}}
+{{< embed-pdf url="/pdfs/2023_1_StatisticFinalTerm_Note[v1].pdf" hideLoader="true" >}}
