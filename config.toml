@@ -30,7 +30,7 @@ enableGitInfo = true
     isSingleColumnOfPostList = true
 
     # 是否显示相邻页链接
-    isShowPrevNextLink = true
+    isShowPrevNextLink = false
 
     # 激活页面加载时的过渡动画
     hasActiveAnimate = true
@@ -76,10 +76,10 @@ enableGitInfo = true
             # zh = '文章'
             icon = '📜'
         [params.menu.33]
-            active = false
-            path = '/archive'
-            zh = 'Archive'
-            # zh = '归档'
+            active = true
+            path = '/myworks'
+            zh = 'My Works'
+            # zh = 'Myworks'
             icon = '🎉'
         [params.menu.44]
             active = false
