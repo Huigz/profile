@@ -77,7 +77,7 @@ enableGitInfo = true
             icon = '📜'
         [params.menu.33]
             active = true
-            path = '/myworks'
+            path = '/nav'
             zh = 'My Works'
             # zh = 'Myworks'
             icon = '🎉'
