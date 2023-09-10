@@ -2,9 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jmsu.me</title>
-    <link>http://example.org/</link>
+    <link>/</link>
     <description>Recent content on Jmsu.me</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hooby Card Collection</title>
+      <link>/hcc/</link>
+      <pubDate>Sun, 10 Sep 2023 23:04:25 +0900</pubDate>
+      
+      <guid>/hcc/</guid>
+      <description>What is Hooby Card Collection ? A mobile IOS App that collect your hobby card and serach infomation about your cards. 개발 진도 :: [2023.09.10]UI Design, App기능 계획 중 Platform 📱 IOS APP STORE 발행 예정 2023 가격 무료 All is Free, Just for fun</description>
+    </item>
+    
+    <item>
+      <title>Textiler</title>
+      <link>/textiler/</link>
+      <pubDate>Mon, 12 Jun 2023 23:04:25 +0900</pubDate>
+      
+      <guid>/textiler/</guid>
+      <description>What is Textiler ? Textile 학생 위한 PixeLoom기능 포함된 어디든 작업할 수 있는 모바일 공구 개발 진도 :: [2023.06.13]사전 UI, App기능 계획 중 Platform 📱 IOS APP STORE 발행 예정 2023.09 ~ 2023.10 가격 무료</description>
+    </item>
+    
+    <item>
+      <title>Nav</title>
+      <link>/nav/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/nav/</guid>
+      <description>My Works 🖥️ HTML/CSS Templates Marp Theme SKKU 📱 IOS APPS Hooby Card Collection Textiler </description>
+    </item>
+    
   </channel>
 </rss>
