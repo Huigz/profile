@@ -64,7 +64,7 @@ enableGitInfo = true
             # zh = '导航'
             icon = '🧐'
         [params.menu.11]
-            active = true
+            active = false
             path = 'http://subwaytrans.cloud'
             zh = '대구 지하철 데이터분석'
             # zh = '搜索'
