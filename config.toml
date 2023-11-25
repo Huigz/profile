@@ -15,7 +15,7 @@ disableKinds = ["taxonomy", "term"]
   links = [
     { blog = { href = "https://blog.jmsu.me", text = "View My Blog", icon="blog" } },
     { blog = { href = "https://sociology.jmsu.me", text = "View My Sociology Posts" } },
-    { app = { href = "hcc/", text = "Hobby Card Collection APP", target = "_self", icon=" " } },
+    { app = { href = "https://pboxkorea.com", text = "Soccer Trading Card Store PBOX", target = "_self", icon="logo_white" } },
     { skku = { href = "https://github.com/Huigz/marp-theme-skku", text = "Marp Theme SKKU" } },
   ]
 
